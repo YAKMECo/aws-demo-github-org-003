@@ -1,1 +1,3 @@
-aws-demo-github-org-003
+# Terraform Example
+
+Create an AWS instance with all upstream resources - VPC, Subnet, Security Group, ELB etc...
